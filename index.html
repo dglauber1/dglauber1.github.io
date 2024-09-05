@@ -1,19 +1,28 @@
+---
+title: your friend cc
+---
 <!DOCTYPE html>
-<title>your friend cc</title>
-<link rel="icon" type="image/x-icon" href="images/favicon.ico" />
-<link rel="stylesheet" href="styles/vanilla.css" />
-<header>
-	<h1>hiiii it's cc!</h1>
-</header>
-<main>
-	<figure>
-		<img src="images/me2.png" alt="my bathroom in oakland!"/>
-		<figcaption>selfie a day, selfie a day</figcaption>
-	</figure>
-	<p>hi Liza tehe</p>
-	<figure>
-		<img src="images/me.jpeg" alt="hellur!"/>
-  	<figcaption>it me</figcaption>
-	</figure>
-	<p>if you have any ideas for what i should do with this website, let me know!</p>
-</main>
+<html>
+	<head>
+		<title>{{ page.title | capitalize }}</title>
+		<link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+		<link rel="stylesheet" href="styles/vanilla.css" />
+	</head>
+	<body>
+		<header>
+			<h1>{{ "hiiii" | capitalize }} it's cc!</h1>
+		</header>
+		<main>
+			<figure> 
+				<img src="images/me2.png" alt="my bathroom in oakland!"/>
+				<figcaption>selfie a day, selfie a day</figcaption>
+			</figure>
+			<p>hi Liza :) tehe</p>
+			<figure>
+				<img src="images/me.jpeg" alt="hellur!"/>
+		  	<figcaption>it me</figcaption>
+			</figure>
+			<p>if you have any ideas for what i should do with this website, let me know!</p>
+		</main>
+	</body>
+</html>
