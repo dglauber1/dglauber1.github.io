@@ -5,7 +5,7 @@ prev-page: crickets
 ---
 walked around the block.  
 now laying on the floor, leo warm against my side.  
-sprinklers hiss outside.  
+outside, sprinklers hiss.  
 
 a photo of some spoons from yesterday that 
 Liza said was framed well:  
