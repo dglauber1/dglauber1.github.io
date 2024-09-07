@@ -1,0 +1,16 @@
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+    values:
+      layout: "page" 
+      # might want to change to default if website structure changes
+      # for now everything, including index.md, is a page
