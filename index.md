@@ -1,11 +1,8 @@
 ---
-title: crickets
-time: 🌒 late summer, after dark 🦗
-prev-page: yummy-coffee
+title: a good walk
+time: 🌒 late summer, after dark 🦗, post-walk
+prev-page: crickets
 ---
-it's late.  
-i've been rotting on tiktok.  
-something about being at my parents' place...  
-
-the crickets sound beautiful.  
-going for a walk with leo🐶 now.  
+walked around the block.  
+now laying on the floor, leo warm against my side.  
+sprinklers hiss outside.  
