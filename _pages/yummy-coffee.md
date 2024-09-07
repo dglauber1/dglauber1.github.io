@@ -1,6 +1,6 @@
 ---
 title: yummy coffee
-date: 🌒 late summer
+time: 🌒 late summer
 prev-page: website-dreams
 ---
 made some delicious coffee today  
