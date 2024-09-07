@@ -14,4 +14,8 @@ i also added a pinch of osmanthus flowers
 also, made it to a 7-day streak on DuoLingo...  
 ☕️ 这是咖啡！  
 
+i am dogsitting for my parents.  
+here's what i made for lunch:   
+![chowmein with an egg in the middle and chopsticks](/assets/images/chowmein.png "lunch!")
+
 [Last Post ➡](/pages/website-dreams)

@@ -1,3 +1,6 @@
+# plugins:
+#   - jekyll-default-layout
+
 collections:
   pages:
     output: true
@@ -12,5 +15,5 @@ defaults:
       path: ""
     values:
       layout: "page" 
-      # might want to change to default if website structure changes
+      # might want to change layout to default if website structure changes
       # for now everything, including index.md, is a page
