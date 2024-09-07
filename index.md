@@ -7,7 +7,8 @@ i ground up, with the beans:
 - cinnamon
 - star anise
 - clove
-- cardamom
+- cardamom  
+
 i also added a pinch of osmanthus flowers
 
 also, made it to a 7-day streak on DuoLingo...  
