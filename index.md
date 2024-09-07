@@ -1,5 +1,5 @@
 ---
-title: 
+title: crickets
 date: 🌒 late summer, after dark 🦗
 prev-page: yummy-coffee
 ---
