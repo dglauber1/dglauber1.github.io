@@ -25,7 +25,8 @@ time, mark, audio, video {
 }
 
 /* Variables */
-:root {
+:root {    
+    --background-color: #e4d5ea; /* a cute soft lavender */
     --desktop-font-size: 1.2rem/1.55;
     --mobile-font-size: 1rem/1.45;
     --text-color: #2d2d2d;
@@ -38,6 +39,7 @@ time, mark, audio, video {
 
 /* Typography */
 body {
+    background: var(--background-color);
     color: var(--text-color);
     margin: 0 auto;
     max-width: 75ch;
