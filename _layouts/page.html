@@ -6,8 +6,10 @@ layout: default
 	<h1>{{ page.title }}</h1>
 </header>
 {{ content }}
+<p id="end-nav">
 {% if page.prev-page %}
-<p id="prev-page">
-	<a href="/{{ page.prev-page }}"">previous page →</a>
-</p>
+	<a href="/{{ page.prev-page }}"">previous →</a>
+{% else %}
+	<a href="/">⌂ home ⌂</a>
 {% endif %}
+</p>
