@@ -18,5 +18,7 @@ photography with an aura is funny:
 ![vibrant pink flowers framed by green lawn and trees](/assets/images/pink_quarry_flowers.jpg "is it my aura or does the pink of these flowers really POP?")
 
 too bad i can't think of some topical aura pun...  
-my aura so strong it's blinding i'm so sorry this is 
-over now goodbye
+my aura so strong it's blinding  
+i'm so sorry  
+this is over now  
+goodbye
