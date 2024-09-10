@@ -1,7 +1,7 @@
 ---
 title: yummy coffee
 time: 🌒 late summer
-prev-page: website-dreams
+# prev-page: website-dreams
 ---
 made some delicious coffee today  
 i ground up, with the beans:

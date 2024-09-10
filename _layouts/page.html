@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
-<hr>
-<h1>{{ page.title }}</h1>
-<h5>{{ page.time }}</h5>
-<hr>
+<header>
+	<h5>{{ page.time }}</h5>
+	<h1>{{ page.title }}</h1>
+</header>
 {{ content }}
+{% if page.prev-page %}
 <p>
 	<a href="/{{ page.prev-page }}">previous page →</a>
 </p>
+{% endif %}
