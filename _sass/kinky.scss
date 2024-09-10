@@ -1,3 +1,21 @@
-header h5 {
-	text-align: right;
+$vertical-margin: 1.5rem;
+
+header {
+	h1 {
+		margin-bottom: $vertical-margin;
+	}
+
+	h5 {
+		text-align: right;
+	}
+}
+
+
+img { 
+	margin: 0.5rem 0; // 0.5rem auto;
+	max-height: 80vh;
+}
+
+p {
+	margin: $vertical-margin 0;
 }

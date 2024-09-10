@@ -1,7 +1,16 @@
 ---
-title: more chow mein
-time: a slow sleepy sunday in oakland ☀️
-prev-page: aura
+title: i'm moving!
+time: 🌓 a cloudy, bright morning
+prev-page: more-chow-mein
 ---
-more 炒面 today:  
-![chow mein with egg and tea on a dining table](/assets/images/chowmein_tea_lunch.jpg "the bottom got nice and crispy when i steamed the egg at the end")
+i told cookie yesterday that i'd sublet her place!  
+
+me in seattle last month (pc Liza):  
+![cc with a big smile](/assets/images/smiley_me.jpg ":D")
+*happy happy happy happy*
+
+here's lunch yesterday. i think of this style of fried rice (super simple - just eggs, rice, scallions, seasoning) as *uncle style* since i picked it up from chris who picked it up from his dad:  
+![egg fried rice with scallions in a frying pan on a dining table next to a mug of coffee](/assets/images/fried_rice_uncle_style.jpg)
+
+finally, look how pretty:  
+![flowers that look like fried eggs with long green stems](/assets/images/flowers_on_bonita.jpg "🍳🍳🍳")  
