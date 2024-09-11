@@ -25,4 +25,4 @@ i’d like it to be easy to create and publish content, but i don’t need every
 anyway here’s me today:  
 ![selfie of cc with plants and peace sign](/assets/images/website-dreams.jpeg "pooping!")
 
-[previous page ➡](/hi-its-cc)
+[previous page ➡](/hi-its-me)
