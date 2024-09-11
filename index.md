@@ -1,15 +1,23 @@
 ---
-prev-page: moving-update
-title: cooking ups and downs
-time: 🌞 clouds have burned away
+prev-page: cooking-blues
+title: lazy musings
+time: a quiet afternoon in oakland
 ---
-i made the most shit soup last night.  
-i used radicchio, thinking it was red cabbage.  
-is red cabbage even a thing?  
-so bitter. i finished the whole thing.  
-*sigh...*
+feeling deeply lazy these days.  
+perhaps it's that i'm weaning myself off coffee.  
+perhaps it's that i'm moving towards a period and a 
+place far from the bay area community to which i've 
+become accustomed.  
 
-but then i made this lil melon display 
-this morning:  
-![](/assets/images/melon_display2.png "baller moves")
-i feel better now.  
+a sense of abundance is there, here - i can feel into 
+it when i focus on it, actively remember it.  
+and still, the little costs of change worry me.  
+change is hard; change is always hard. remembering 
+that allows me to give grace to this moment, 
+to this moment for feeling tough. 
+the future holds great change, and with it 
+great cost. great grief. may i accept and release 
+it all with quiet gratitude. 
+
+there's brightness ahead, too.  
+there's brightness here, too. 
