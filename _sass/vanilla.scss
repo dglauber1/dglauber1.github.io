@@ -161,7 +161,7 @@ sup { font-size: 80%; vertical-align: top; }
 /* Dark mode support */
 @media (prefers-color-scheme: dark) {
     body {
-        background: #191919;
+        background: #10002b;// #240046;
     }
     input:focus, input:active {
         background-color: var(--text-color);
