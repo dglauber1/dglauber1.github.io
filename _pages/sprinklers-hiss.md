@@ -1,6 +1,6 @@
 ---
 title: a good walk
-time: 🌒 late summer, after dark 🦗, post-walk
+time: 🌒 after dark 🦗, post-walk
 prev-page: crickets
 ---
 walked around the block.  
