@@ -103,11 +103,12 @@ sup { font-size: 80%; vertical-align: top; }
   table, table tr, table th:not(:last-of-type), table td:not(:last-of-type) { border-color: var(--text-color); }
   table thead th, table tfoot th { background-color: var(--primary-color-light); }
   :root { --text-color: #fff; --link-color: violet; --link-color-alt: yellow; --primary-color: violet; --primary-color-light: dimgrey; --secondary-color: black; --tertiary-color: #2d2d2d; } }
+header { padding-top: 2rem; }
 header h1 { margin-bottom: 1.5rem; }
-header h5 { text-align: right; }
+header h5 { text-align: right; margin-top: 0; }
 
 img { margin: 0.5rem 0; max-height: 80vh; }
 
 p { margin: 1.5rem 0; }
 
-#end-nav { text-align: center; font-size: 120%; }
+#end-nav p { text-align: center; font-size: 1.45rem; }
