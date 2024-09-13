@@ -1,11 +1,5 @@
 ---
-prev-musing: lazy-musings
-title: at least
-time: 🌔
+prev-musing: at-least
+title: 
+time: the buttcrack of dawn
 ---
-"...at least i'm sexy"  
-i thought to myself  
-as i  
-finally   
-got out of bed   
-this afternoon
