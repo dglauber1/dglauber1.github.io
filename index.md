@@ -1,7 +1,7 @@
 ---
 prev-musing: at-least
 title: main character energy
-time: the buttcrack of dawn
+time: just watched dark mode automatically turn off on my phone 🌄
 ---
 sleep cycle hella fucked  
 could you even call it a cycle at this point  
