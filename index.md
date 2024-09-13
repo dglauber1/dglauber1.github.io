@@ -3,8 +3,9 @@ prev-musing: lazy-musings
 title: at least
 time: 🌔
 ---
-"i'm depressed...  
-...but at least i'm sexy"  
-was my first thought  
-when i woke up  
+"...at least i'm sexy"  
+i thought to myself  
+as i  
+finally   
+got out of bed   
 this afternoon
