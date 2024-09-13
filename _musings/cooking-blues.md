@@ -1,5 +1,5 @@
 ---
-prev-page: moving-update
+prev-musing: moving-update
 title: cooking ups and downs
 time: 🌞 clouds have burned away
 ---

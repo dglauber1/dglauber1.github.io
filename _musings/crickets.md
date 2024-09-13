@@ -1,7 +1,7 @@
 ---
 title: crickets
 time: 🌒 late summer, after dark 🦗
-prev-page: yummy-coffee
+prev-musing: yummy-coffee
 ---
 it's late.  
 i've been rotting on tiktok.  

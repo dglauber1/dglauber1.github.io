@@ -1,7 +1,7 @@
 ---
 title: aura
 time: 🌷☀️ waiting for cara to pick me up
-prev-page: sprinklers-hiss
+prev-musing: sprinklers-hiss
 ---
 i probably shouldn't be on my phone right now.  
 i'm having an aura, which often means i'm about to have a migraine.  

@@ -1,5 +1,5 @@
 ---
-prev-page: lazy-musings
+prev-musing: lazy-musings
 title: at least
 time: 🌓
 ---

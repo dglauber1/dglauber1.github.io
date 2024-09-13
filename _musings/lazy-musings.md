@@ -1,5 +1,5 @@
 ---
-prev-page: cooking-blues
+prev-musing: cooking-blues
 title: lazy musings
 time: a quiet afternoon in oakland
 ---

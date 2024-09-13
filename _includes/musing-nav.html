@@ -1,0 +1,11 @@
+<p id="end-nav">
+{% if page.url != "/" %}
+	<a href="/">⌂ home</a>
+{% endif %}
+{% if page.url != "/" and page.prev-musing %}
+	|
+{% endif %}
+{% if page.prev-musing %}
+	<a href="/{{ page.prev-musing }}"">past →</a>
+{% endif %}
+</p>

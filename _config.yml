@@ -2,19 +2,19 @@
 #   - jekyll-default-layout
 
 collections:
-  pages:
+  musings:
     output: true
     permalink: /:name
 
 defaults:
   - scope:
       path: ""
-      type: "pages"
+      type: "musings"
     values:
-      layout: "page"
+      layout: "musing"
   - scope:
       path: ""
     values:
-      layout: "page" 
+      layout: "musing" 
       # might want to change layout to default if website structure changes
-      # for now everything, including index.md, is a page
+      # for now everything, including index.md, is a musing

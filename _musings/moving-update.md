@@ -1,7 +1,7 @@
 ---
 title: i'm moving!
 time: 🌓 a cloudy, bright morning
-prev-page: more-chow-mein
+prev-musing: more-chow-mein
 ---
 i told cookie yesterday that i'd sublet her place!  
 
