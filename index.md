@@ -1,7 +1,7 @@
 ---
 prev-musing: lazy-musings
 title: at least
-time: 🌓
+time: 🌔
 ---
 "i'm depressed...  
 ...but at least i'm sexy"  
