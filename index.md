@@ -1,11 +1,8 @@
 ---
-prev-musing: at-least
-title: main character energy
-time: dawn 🌄
+prev-musing: sleepless-cycle
+title: late curry dinner
+time: solitude before slumber
 ---
-sleep cycle hella fucked  
-could you even call it a cycle at this point  
-
-kicking coffee,  
-moving states impulsively...  
-a powerful and new combo for me
+gratitude to my auntie for teaching 
+me this delicious dish:\
+![green curry with white rice, three peach slices on another plate](/assets/images/green_curry_dinner.jpg "this really hit")
