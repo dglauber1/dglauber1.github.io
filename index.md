@@ -1,8 +1,6 @@
 ---
-prev-musing: sleepless-cycle
-title: late curry dinner
-time: solitude before slumber
+prev-musing: late-curry-dinner
+title: i'll do it when i'm ready
+time: senescence 
 ---
-gratitude to my auntie for teaching 
-me this delicious dish:\
-![green curry with white rice, three peach slices on another plate](/assets/images/late_curry_dinner.jpeg "green curry with mushrooms and fishcake - this really hit")
+![](/assets/images/hippo_bb.png "thanks sis for the meme")
