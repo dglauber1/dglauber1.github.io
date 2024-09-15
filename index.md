@@ -1,6 +1,6 @@
 ---
 prev-musing: bb-hippo
-title: my learning style...
+title: my learning style
 time: cuddle time with Leo 🐶
 ---
 ...is hyperfixation.\
