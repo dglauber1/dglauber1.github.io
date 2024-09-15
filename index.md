@@ -10,3 +10,4 @@ i never buy cilantro because i can never finish it all.\
 but then a few days ago, Frida wanted to make guac, so cakes picked us up some cilantro.\
 feels like a treat to have cilantro noodles:
 ![](/assets/images/cilantro_noods.png "this was a really dank bite")
+serrano added a good kick, alongside some korean seafood mushrooms
