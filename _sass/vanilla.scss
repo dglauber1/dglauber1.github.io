@@ -30,10 +30,10 @@ time, mark, audio, video {
     --desktop-font-size: 1.2rem/1.55;
     --mobile-font-size: 1rem/1.45;
     --text-color: #2d2d2d;
-    --link-color: darkblue;
+    --link-color: #80339c;
     --link-color-alt: purple;
     --primary-color: lightsteelblue;
-    --secondary-color: aliceblue;
+    --secondary-color: #fef3fd;
     --tertiary-color: whitesmoke;
 }
 
@@ -50,7 +50,7 @@ body, input {
 }
 
 h1,h2,h3,h4,h5,h6,p,blockquote,dl,img,figure {
-    margin: 2rem 0;
+    margin: 1.5rem 0;
 }
 
 h1,h2,h3,h4,h5,h6 { font-weight: bold; line-height: 1.2; }
@@ -75,7 +75,7 @@ blockquote, q {
     border-left: 10px solid var(--primary-color);
     display: block;
     font-family: "Georgia", serif;
-    padding: 1rem;
+    padding: 0.5rem 1rem;
 }
 blockquote p:first-child { margin-top: 0; }
 blockquote p:last-child { margin-bottom: 0; }
@@ -160,9 +160,6 @@ sup { font-size: 80%; vertical-align: top; }
 
 /* Dark mode support */
 @media (prefers-color-scheme: dark) {
-    body {
-        background: #10002b;// #240046;
-    }
     input:focus, input:active {
         background-color: var(--text-color);
         color: var(--secondary-color);
@@ -178,12 +175,13 @@ sup { font-size: 80%; vertical-align: top; }
         background-color: var(--primary-color-light);
     }
     :root {
-        --text-color: #fff;
+        --background-color: #10002b;
+        --text-color: #ced4da;
         --link-color: violet;
-        --link-color-alt: yellow;
+        --link-color-alt: #ffd700;
         --primary-color: violet;
         --primary-color-light: dimgrey;
-        --secondary-color: black;
+        --secondary-color: #0f0027;
         --tertiary-color: #2d2d2d;
     }
 }
