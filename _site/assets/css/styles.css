@@ -101,7 +101,7 @@ sup { font-size: 80%; vertical-align: top; }
 @media (prefers-color-scheme: dark) { input:focus, input:active { background-color: var(--text-color); color: var(--secondary-color); }
   table, table tr, table th:not(:last-of-type), table td:not(:last-of-type) { border-color: var(--text-color); }
   table thead th, table tfoot th { background-color: var(--primary-color-light); }
-  :root { --background-color: #10002b; --text-color: #ced4da; --link-color: violet; --link-color-alt: #ffd700; --primary-color: violet; --primary-color-light: dimgrey; --secondary-color: #0f0027; --tertiary-color: #2d2d2d; } }
+  :root { --background-color: #10002b; --text-color: #dee2e6; --link-color: violet; --link-color-alt: #ffd700; --primary-color: violet; --primary-color-light: dimgrey; --secondary-color: #0f0027; --tertiary-color: #2d2d2d; } }
 header { padding-top: 2rem; }
 header h5 { text-align: right; margin-top: 0; }
 
