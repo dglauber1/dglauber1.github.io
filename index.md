@@ -3,11 +3,11 @@ prev-musing: missing-hiccup
 title: Kahlil Gibran on freedom
 time: 🌖
 ---
-> you can only be free when even the
+> You can only be free when even the
 > desire of seeking freedom becomes a 
 > harness to you, and when you cease 
 > to speak of freedom as a goal and a
-> fulfillment
+> fulfillment. 
 > 
 > You shall be free indeed when your 
 > days are not without a care nor your 
