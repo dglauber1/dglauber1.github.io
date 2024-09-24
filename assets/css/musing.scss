@@ -1,6 +1,12 @@
 ---
 ---
-#musing-header {
+.layoutContainer {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+header {
 	padding-top: 2rem;
 	flex: none;
 
@@ -10,7 +16,7 @@
 	}
 }
 
-#musing-main {
+main {
 	flex: 1 0 auto;
 
 	> *:first-child {
@@ -18,12 +24,7 @@
 	}
 }
 
-img { 
-	margin: 0.5rem 0; // 0.5rem auto;
-	max-height: 80vh;
-}
-
-#musing-footer {
+footer {
 	flex: none;
 
 	p {
@@ -35,10 +36,3 @@ img {
 		margin-top: 0;
 	}
 }
-
-.layoutContainer {
-	display: flex;
-	flex-direction: column;
-	min-height: 100vh;
-}
-
