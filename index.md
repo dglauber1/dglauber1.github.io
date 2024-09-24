@@ -5,7 +5,7 @@ time: 🌗
 ---
 Wind blows heavy\
 Through my open window\
-Its howl, disquieting\
+Its howl, disquieting
 
 As the wind settles, my\
 Window gently swings shut\
