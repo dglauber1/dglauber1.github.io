@@ -2,6 +2,7 @@
 prev-musing: kg-on-freedom
 title: Wind Blows Heavy
 time: 🌗
+collection: musings
 ---
 Wind blows heavy\
 Through my open window.\

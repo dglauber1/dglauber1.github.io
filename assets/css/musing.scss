@@ -1,0 +1,44 @@
+---
+---
+#musing-header {
+	padding-top: 2rem;
+	flex: none;
+
+	h5 {
+		text-align: right;
+		margin-top: 0;
+	}
+}
+
+#musing-main {
+	flex: 1 0 auto;
+
+	> *:first-child {
+		margin-top: 0;
+	}
+}
+
+img { 
+	margin: 0.5rem 0; // 0.5rem auto;
+	max-height: 80vh;
+}
+
+#musing-footer {
+	flex: none;
+
+	p {
+		text-align: center;
+		font-size: 1.45rem;
+	}
+
+	> *:first-child {
+		margin-top: 0;
+	}
+}
+
+.layoutContainer {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+

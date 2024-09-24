@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
-<header>
-	<h5>{{ page.time }}</h5>
-	<h1>{{ page.title }}</h1>
-</header>
-{{ content }}
-{% include musing-nav.html %}
+<div class="layoutContainer">
+	<header id="musing-header">
+		<h5>{{ page.time }}</h5>
+		<h1>{{ page.title }}</h1>
+	</header>
+	<main id="musing-main">
+		{{ content }}
+	</main>
+	{% include musing-footer.html %}
+</div>
