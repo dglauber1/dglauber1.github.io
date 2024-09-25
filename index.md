@@ -2,7 +2,7 @@
 prev-musing: black-ring-black-nails
 title: The Journey
 time: 🌘
-collection: 
+collection: musings
 ---
 By Mary Oliver:
 > One day you finally knew\
