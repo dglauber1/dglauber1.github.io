@@ -5,17 +5,17 @@ time: 🌘
 collection: 
 ---
 By Mary Oliver:
-> One day you finally knew
-> what you had to do, and began,
-> though the voices around you 
-> kept shouting
-> their bad advice - 
-> though the whole house
-> began to tremble
-> and you felt the old tug
-> at your ankles. 
-> "Mend my life!"
-> each voice cried. 
+> One day you finally knew\
+> what you had to do, and began,\
+> though the voices around you \
+> kept shouting\
+> their bad advice - \
+> though the whole house\
+> began to tremble\
+> and you felt the old tug\
+> at your ankles. \
+> "Mend my life!"\
+> each voice cried. \
 > But you didn't stop. 
 > You knew what you had to do,
 > though the wind pried
