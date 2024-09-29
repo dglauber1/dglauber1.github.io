@@ -1,15 +1,14 @@
 --- 
-prev-musing: the-journey-mary-oliver
-title: Don't Look Back
+prev-musing: dont-look-back
+title: 
 time: 🌘
 collection: musings
 ---
-From <u>The Fifth Season</u> by N.K. Jemison:
-> "Don't look back," Schaffa advises.
-> "It's easier that way."
->
-> So she doesn't. Later, she will realize 
-> he was right about this, too. 
->
-> Much later, though, she will wish she 
-> had done it anyway. 
+More Lama Rod:
+> If you choose freedom for real, you will
+> lose shit and maybe never get anything
+> back again. You will be misunderstood. 
+> You will not be invited to hang with 
+> the cool kids anymore. Your heart will
+> break wide open, revealing the 
+> marriage of both sorrow and joy. 
