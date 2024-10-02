@@ -1,6 +1,6 @@
 --- 
 prev-musing: dont-look-back
-title: Choose Freedom For Real
+title: Freedom For Real
 time: 🌘
 collection: musings
 ---
