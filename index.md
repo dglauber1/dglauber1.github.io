@@ -1,14 +1,10 @@
 --- 
-prev-musing: dont-look-back
-title: Freedom For Real
-time: 🌘
+prev-musing: freedom-for-real
+title: The Two Greatest Tragedies
+time: 🌚
 collection: musings
 ---
-More Lama Rod:
-> If you choose freedom for real, you will
-> lose shit and maybe never get anything
-> back again. You will be misunderstood. 
-> You will not be invited to hang with 
-> the cool kids anymore. Your heart will
-> break wide open, revealing the 
-> marriage of both sorrow and joy. 
+"The two greatest tragedies in life\
+are when you don't get what you want\
+and when you get it."\
+- Buddhist Saying
