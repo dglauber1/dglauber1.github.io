@@ -1,6 +1,6 @@
 --- 
 prev-musing: two-great-tragedies
-title: Heaps of Apples
+title: Apples in Heaps
 time: 🌒
 collection: musings
 ---
