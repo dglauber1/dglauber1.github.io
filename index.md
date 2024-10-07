@@ -9,7 +9,7 @@ No one can protect you from that,
 and living alone won't either,
 for solitude will also break you
 with its yearning. 
-You have to love, you have to feel. 
+You have to love. You have to feel. 
 It is the reason you are here on earth.
 You are here to risk your heart. 
 You are here to be swallowed up. 
