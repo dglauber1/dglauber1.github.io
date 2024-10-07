@@ -21,5 +21,6 @@ and listen to the apples falling all
 all around you in heaps,
 wasting their sweetness. 
 Tell yourself you tasted 
-as many as you could.  
+as many as you could.
+
 -Louise Erdrich
