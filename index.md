@@ -1,26 +1,14 @@
 --- 
-prev-musing: two-great-tragedies
-title: Apples in Heaps
-time: 🌒
+prev-musing: apples-in-heaps
+title: Snails, Water Currents
+time: 🌓
 collection: musings
 ---
-> Life will break you.
-No one can protect you from that,
-and living alone won't either,
-for solitude will also break you
-with its yearning. 
-You have to love. You have to feel. 
-It is the reason you are here on earth.
-You are here to risk your heart. 
-You are here to be swallowed up. 
-And when it happens that you are broken,
-or betrayed, or left, or hurt,
-or death brushes near, 
-let yourself sit by an apple tree
-and listen to the apples falling all
-all around you in heaps,
-wasting their sweetness. 
-Tell yourself you tasted 
-as many as you could.
-
--Louise Erdrich
+When is it more work to stay put  
+than to move?
+<hr>
+When currents become strong,  
+aquatic snails retract into their shells,  
+letting go of whatever they were holding onto.  
+They know it's safer to let the water carry them off  
+than risk staying put, becoming stranded, high and dry.

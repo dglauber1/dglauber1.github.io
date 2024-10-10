@@ -102,7 +102,7 @@ hr {
     background: var(--text-color);
     border: 0;
     height: 1px;
-    margin: 4rem 0;
+    // margin: 4rem 0;
 }
 
 img {
@@ -179,13 +179,13 @@ sup { font-size: 80%; vertical-align: top; }
         background-color: var(--primary-color-light);
     }
     :root {
-        --background-color: #10002b;
+        --background-color: #10002b; // russian violet
         --text-color: #dee2e6;
         --link-color: violet;
         --link-color-alt: #F093F0;
         --primary-color: violet;
         --primary-color-light: dimgrey;
-        --secondary-color: #0f0027;
+        --secondary-color: #192024; // "night"
         --tertiary-color: #2d2d2d;
     }
 }
