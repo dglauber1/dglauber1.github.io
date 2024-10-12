@@ -3,6 +3,7 @@ prev-musing: two-great-tragedies
 title: Apples in Heaps
 time: 🌒
 ---
+Louise Erdrich:
 > Life will break you.
 No one can protect you from that,
 and living alone won't either,
@@ -21,5 +22,3 @@ all around you in heaps,
 wasting their sweetness. 
 Tell yourself you tasted 
 as many as you could.
-
--Louise Erdrich
