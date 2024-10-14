@@ -3,10 +3,10 @@ prev-musing: black-ring-black-nails
 title: The Journey
 time: 🌘
 ---
-Mary Oliver:
+<cite>Mary Oliver:</cite>
 > One day you finally knew\
 > what you had to do, and began,\
-> though the voices around you \
+> though the voices around you\
 > kept shouting\
 > their bad advice - \
 > though the whole house\

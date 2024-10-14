@@ -3,7 +3,7 @@ prev-musing: dont-look-back
 title: Freedom For Real
 time: 🌘
 ---
-More Lama Rod:
+More <cite>Lama Rod:</cite>
 > If you choose freedom for real, you will
 > lose shit and maybe never get anything
 > back again. You will be misunderstood. 
