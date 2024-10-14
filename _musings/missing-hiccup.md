@@ -1,5 +1,5 @@
 --- 
-prev-musing: mothering-prosperity
+prev-musing: lama-rod-on-love
 title: missing hiccup
 time: mooncake day! 🥮🌝<br> eclipse in pisces
 ---
