@@ -1,14 +1,7 @@
 --- 
-prev-musing: try-softer
-title: The dark years work too
-time: 🌖
+prev-musing: the-dark-years
+title: life these days
+time: 🌒 early spring in seattle
 collection: musings
 ---
-More <cite>Andrea Gibson</cite>:
-> I could show you where the lakes on this planet\
-are buried. How you do not need light-years\
-to reach them. The dark years work too.\
-Sometimes better. Sometimes grief\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-is the fastest route to truth.
+![](/assets/images/pluto_toe_socks.png "the nibbling")
