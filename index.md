@@ -1,6 +1,6 @@
 --- 
 prev-musing: healing-fighting-loving
-title: cultivating a higher ground
+title: a higher ground
 time: 🌔
 collection: musings
 ---
