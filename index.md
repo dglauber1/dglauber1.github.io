@@ -1,6 +1,6 @@
 --- 
 prev-musing: nibbling-toe-socks
-title: healing thru fighting and loving
+title: healing fighting loving
 time: 🌓
 collection: musings
 ---
