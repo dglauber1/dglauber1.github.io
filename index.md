@@ -1,7 +1,10 @@
 --- 
-prev-musing: the-dark-years
-title: life these days
-time: early spring in seattle 🌒 
+prev-musing: nibbling-toe-socks
+title: healing thru fighting and loving
+time: 🌓
 collection: musings
 ---
-![](/assets/images/pluto_toe_socks.png "the nibbling")
+<cite>Prentis Hemphill:</cite>
+> Healing, I often say, helps us fight 
+in the places we need to, but love in the 
+places we long to. 
