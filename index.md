@@ -20,4 +20,4 @@ this one by <cite>Rainier Maria Rilke</cite>:
 > To have no home in the present.\
 > \
 > And these are wishes: gentle dialogues\
-> of the poor hours with eternity. 
+> Of the poor hours with eternity. 
