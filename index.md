@@ -13,3 +13,10 @@ collection: musings
 
 i might amend this now to say, "<i>i want to 
 experience living amidst my longing</i>"
+
+the poem that i was riffing on is 
+this one by <cite>Rainier Maria Rilke</cite>:
+> That is longing: to dwell in the flux of things,\
+> To have no home in the present.\
+> And these are wishes: gentle dialogues\
+> of the poor hours with eternity. 
