@@ -4,8 +4,8 @@ title: the culture of whiteness
 time: hot night 🌓
 collection: musings
 ---
-the culture of whiteness 
-is not really a culture
+the culture of whiteness \
+is not really a culture\
 but a script
 a set of rules. 
 the script - of whiteness - 
