@@ -11,14 +11,14 @@ a set of rules. \
 the script - of whiteness - \
 that i carry\
 will hurt you\
-just as yours me\
+just as yours me
 
 to be accountable to that \
 we need to be in a culture \
 of feedback\
 of bravery\
 of freedom\
-of choice\
+of choice
 
 whirling movements\
 of whirling grace
