@@ -1,23 +1,30 @@
 --- 
-prev-musing: a-higher-ground
-title: the flux of things
-time: mid spring 🌒
+prev-musing: the-flux-of-things
+title: the culture of whiteness
+time: hot night 🌓
 collection: musings
 ---
-<cite>me of not quite four years ago:</cite>
-> i want to live into the flux of things,\
-> not dwell in them. \
-> i want to experience living, not longing. \
-> i want to have a home in the present; \
-> to be held with love in every moment. 
+the culture of whiteness 
+is not really a culture
+but a script
+a set of rules. 
+the script - of whiteness - 
+that i carry
+will hurt you
+just as yours me
 
-i might amend this now to say, "<i>i want to 
-experience living amidst my longing</i>"
+to be accountable to that 
+we need to be in a culture 
+of feedback
+of bravery
+of freedom
+of choice
 
-the poem that i was riffing on is 
-this one by <cite>Rainier Maria Rilke</cite>:
-> That is longing: to dwell in the flux of things,\
-> To have no home in the present.\
-> \
-> And these are wishes: gentle dialogues\
-> Of the poor hours with eternity. 
+whirling movements
+of whirling grace
+
+thru the thick and the thin
+the slime and the sludge
+
+hunger-driven
+silent as a knife
