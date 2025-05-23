@@ -100,8 +100,11 @@ code, pre {
 code pre , pre code { border: 0; padding: 0; }
 
 // this is good for poetry
-span.tight-line {
-    line-height: 10;
+p.tight-lines {
+    line-height: 1.5;
+    span {
+        line-height: 1;
+    }
 }
 
 /* Elements */
