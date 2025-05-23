@@ -99,7 +99,10 @@ code, pre {
 }
 code pre , pre code { border: 0; padding: 0; }
 
-br {
+// when br is used make the next line hug this one
+// this is good for poetry
+br { hug this one
+
     line-height: 0;
     margin: 0;
 }
