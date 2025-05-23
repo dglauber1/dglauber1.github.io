@@ -99,6 +99,11 @@ code, pre {
 }
 code pre , pre code { border: 0; padding: 0; }
 
+br {
+    line-height: 0;
+    margin: 0;
+}
+
 /* Elements */
 hr {
     background: var(--text-color);
