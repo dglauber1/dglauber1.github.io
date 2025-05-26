@@ -22,7 +22,7 @@ this one by <cite>Rainier Maria Rilke</cite>:
 > * That is longing: to dwell in the flux of things,
 > * To have no home in the present.
 > 
-> &nbsp;\
+> &nbsp;
 > * And these are wishes: gentle dialogues
 > * Of the poor hours with eternity. 
 </div>
