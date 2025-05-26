@@ -99,14 +99,6 @@ code, pre {
 }
 code pre , pre code { border: 0; padding: 0; }
 
-// this is good for poetry
-p.tight-lines {
-    line-height: 1.5;
-    span {
-        line-height: 1;
-    }
-}
-
 /* Elements */
 hr {
     background: var(--text-color);
