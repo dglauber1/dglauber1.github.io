@@ -31,17 +31,17 @@ main {
 	}
 }
 
-// this is good for poetry
 .poem {
 	ul {
 		list-style-type: none;
 		padding: 0;
-		margin: 0;
+		// margin: 0;
 
 		li {
-			margin: 0.4rem 0;
-			line-height: 1;
+			margin: 0 0 0.75rem 0;
+			line-height: 1.2;
 		}
+		li:last-child { margin-bottom: 0; }
 	}
 }
 

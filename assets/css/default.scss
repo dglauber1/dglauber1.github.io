@@ -82,6 +82,7 @@ blockquote, q {
 }
 blockquote p:first-child { margin-top: 0; }
 blockquote p:last-child { margin-bottom: 0; }
+blockquote ul:last-child { margin-bottom: 0; }
 blockquote p { display: inline-block; }
 cite {
     font-family: "Georgia", serif;
