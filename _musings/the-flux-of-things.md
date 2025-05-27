@@ -20,8 +20,8 @@ the poem that i was riffing on is
 this one by <cite>Rainier Maria Rilke</cite>:
 <div class="poem" markdown="1">
 > * That is longing: to dwell in the flux of things,
-> * To have no home in the present.
-> 
+> * To have no home in the present.  
+> &nbsp;  
 > * And these are wishes: gentle dialogues
 > * Of the poor hours with eternity. 
 </div>
