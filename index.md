@@ -1,6 +1,6 @@
 --- 
 prev-musing: culture-of-whiteness
-title: 
+title: Willing Another's Existence
 time: before bed 🌒
 collection: musings
 ---
