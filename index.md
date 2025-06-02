@@ -1,30 +1,22 @@
 --- 
-prev-musing: the-flux-of-things
-title: the culture of whiteness
-time: hot night 🌓
+prev-musing: culture-of-whiteness
+title: 
+time: before bed 🌒
 collection: musings
 ---
-the culture of whiteness \
-is not really a culture\
-but a script\
-a set of rules. \
-the script - of whiteness - \
-that i carry\
-will hurt you\
-just as yours me
-
-to be accountable to that \
-we need to be in a culture \
-of feedback\
-of bravery\
-of freedom\
-of choice
-
-whirling movements\
-of whirling grace
-
-thru the thick and the thin\
-the slime and the sludge
-
-hunger-driven\
-silent as a knife
+<cite>Prentis Hemphill</cite> on love:
+> I think love ... is when we will 
+> another's existence ...  
+> Willing another's existence could 
+> happrn near or far, across time. It's 
+> not force or control, but a light 
+> and steady touch, a presence and 
+> attention. The steadiness of love, 
+> the will of it, is what gives it 
+> weight, distinguishes it from the 
+> thin love that Toni Morrison warns
+> about in her novel **Beloved**. 
+> To will someone is a generosity of
+> our own spirit, a shift from scarcity, 
+> a faith in connection. Love is a kind 
+> of reunification. 
