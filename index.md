@@ -8,7 +8,7 @@ collection: musings
 > I think love ... is when we will 
 > another's existence ...  
 > Willing another's existence could 
-> happrn near or far, across time. It's 
+> happen near or far, across time. It's 
 > not force or control, but a light 
 > and steady touch, a presence and 
 > attention. The steadiness of love, 
