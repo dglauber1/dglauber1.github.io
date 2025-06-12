@@ -19,7 +19,7 @@ Devich-Cyril</cite>:
 > guides revolutionaries.  
 
 grief is the opposite of indifference. 
-joy, i feel, is investment in pleasure, 
-rather than indifference to it. and so
+joy, i feel, is loving investment in pleasure, 
+rather than indifferent consumption of it. and so
 both grief and joy are the opposite of
 indifference. grief is joy is grief. 
