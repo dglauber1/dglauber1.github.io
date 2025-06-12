@@ -1,22 +1,21 @@
 --- 
-prev-musing: culture-of-whiteness
-title: Willing Another's Existence
-time: before bed 🌒
+prev-musing: the-regular-work
+title: joy/grief
+time: 🌝
 collection: musings
 ---
-<cite>Prentis Hemphill</cite> on love:
-> I think love ... is when we will 
-> another's existence ...  
-> Willing another's existence could 
-> happen near or far, across time. It's 
-> not force or control, but a light 
-> and steady touch, a presence and 
-> attention. The steadiness of love, 
-> the will of it, is what gives it 
-> weight, distinguishes it from the 
-> thin love that Toni Morrison warns
-> about in her novel **Beloved**. 
-> To will someone is a generosity of
-> our own spirit, a shift from scarcity, 
-> a faith in connection. Love is a kind 
-> of reunification. 
+i've come across writings in the past 
+that lead me to believe that joy and 
+grief are inextricable - two sides of the 
+same coin. here's another, from, yet
+again, <cite>Prentis Hemphill</cite>, who
+quotes their friend <cite>Malkia 
+Devich-Cyril</cite>:
+> Joy is not the opposite of grief. 
+> Grief is the opposite of indifference. 
+> Grief is an evolutionary indicator of
+> love---the kind of great love that
+> guides revolutionaries. 
+grief is the opposite of indifference. 
+joy, i feel, is investment in pleasure, 
+rather than indifference to it. 
