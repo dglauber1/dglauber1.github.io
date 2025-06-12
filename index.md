@@ -5,7 +5,7 @@ time: 🌝
 collection: musings
 ---
 i've come across writings in the past 
-that lead me to believe that joy and 
+that led me to believe that joy and 
 grief are inextricable - two sides of the 
 same coin. here's another, from, yet
 again, <cite>Prentis Hemphill</cite>, who
