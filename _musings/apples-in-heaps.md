@@ -17,7 +17,7 @@ And when it happens that you are broken,
 or betrayed, or left, or hurt,
 or death brushes near, 
 let yourself sit by an apple tree
-and listen to the apples falling all
+and listen to the apples falling
 all around you in heaps,
 wasting their sweetness. 
 Tell yourself you tasted 
