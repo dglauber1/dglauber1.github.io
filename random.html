@@ -1,0 +1,11 @@
+---
+---
+<script>
+	var comingFrom = document.referrer; // https://lazysomedays.com/bb-hippo
+	var allMusings = [{% for musing in site.musings %}
+		"{{ musing.url }}",
+		{% endfor %}]; // ["apples-in-heaps", "bb-hippo", ...]
+	allMusings = allMusings.filter(url => !comingFrom.includes(url));
+	var randomMusing = allMusings[Math.floor(Math.random() * allMusings.length)];
+	location.replace(randomMusing);
+</script>

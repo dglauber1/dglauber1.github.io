@@ -1,13 +1,11 @@
 <footer>
 	<p>
 	{% if page.url != "/" %}
-		<a href="/">家 home</a>
+		<a href="/">家 home</a> |
 	{% endif %}
-	{% if page.url != "/" and page.prev-musing %}
-		|
-	{% endif %}
+	<a href="/random">random</a>
 	{% if page.prev-musing %}
-		<a href="/{{ page.prev-musing }}"">past →</a>
+		| <a href="/{{ page.prev-musing }}"">past →</a>
 	{% endif %}
 	</p>
 </footer>
