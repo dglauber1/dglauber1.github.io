@@ -4,7 +4,9 @@ layout: default
 <div class="layoutContainer">
 	<header>
 		<h5>{{ page.time }}</h5>
+	{% if page.title %}
 		<h1>{{ page.title }}</h1>
+	{% endif %}
 	</header>
 	<main>
 		{{ content }}
