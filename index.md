@@ -12,7 +12,7 @@ my mind questions why i might still be
 pursuing love and connection during a time
 like this. this poem, 
 <u>Crossing Half of China to Sleep with You</u>
-by <cite>Yu Xiu Hua</cite> and translated by
+by <cite>余秀华</cite> and translated by
 <cite>Ming Di</cite> validates so much of
 what i'm feeling:
 
