@@ -7,7 +7,7 @@ collection: musings
 a proverb i first read in 
 <cite>Stephanie Foo</cite>'s 
 _What My Bones Know_:
-> when the sky falls down,\
+> When the sky falls down,\
 > use the clouds as your blanket. 
 
 One Chinese version, from 
