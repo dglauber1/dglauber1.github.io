@@ -1,13 +1,13 @@
 --- 
 prev-musing: crossing-half-of-china
-title: when the sky falls
+title: when the sky collapses
 time: full moon in capricorn 🌕
 collection: musings
 ---
 a proverb i first read in 
 <cite>Stephanie Foo</cite>'s 
 _What My Bones Know_:
-> When the sky collapses,\
+> When the sky falls down,\
 > use the clouds as your blanket. 
 
 one Chinese version, from 
