@@ -1,6 +1,6 @@
 --- 
 prev-musing: crossing-half-of-china
-title: when the sky falls
+title: when the sky collapses
 time: full moon in capricorn 🌕
 collection: musings
 ---
