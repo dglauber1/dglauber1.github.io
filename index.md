@@ -10,6 +10,6 @@ _What My Bones Know_:
 > When the sky falls down,\
 > use the clouds as your blanket. 
 
-One Chinese version, from 
+one Chinese version, from 
 <cite>Gary Lit Ying Loong</cite>:
 > 说如果天要塌下来用作毯子
