@@ -15,5 +15,6 @@ one Chinese version, from
 > 说如果天要塌下来用作毯子
 
 <cite>Liza</cite>'s version:
-> 如果天塌下来了，就用云朵做你的毯子。
+> 如果天塌下来了，\
+就用云朵做你的毯子。
 
