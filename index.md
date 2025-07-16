@@ -12,6 +12,6 @@ collection: musings
 > be made precise. 
 
 in the same vein, i'd rather be an 
-ineffective fuck-up than become
+ineffective fuck-up coexisting than become
 a materially powerful person
 at the expense of others. 
