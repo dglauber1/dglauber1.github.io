@@ -1,17 +1,11 @@
 --- 
-prev-musing: sky-falls-down
-title: 
-time: solar return 🦀
+prev-musing: owning-fuckedupedness
+title: what my bones know
+time: start of my weekend 🌘
 collection: musings
 ---
-<cite>John W. Tukey</cite>:
-> Far better an approximate answer to 
-> the _right_ question, which is often
-> vague, than an _exact_ answer to 
-> the wrong question, which can always
-> be made precise. 
-
-in the same vein, i'd rather be an 
-ineffective fuck-up coexisting than become
-a materially powerful person
-at the expense of others. 
+<cite>Stephanie Foo:</cite>
+> I want to have words for what my bones 
+know. I want to use these gifts when they
+serve me and understand and forgive them
+when they do not.
