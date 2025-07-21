@@ -1,6 +1,6 @@
 --- 
 prev-musing: sky-falls-down
-title: 
+title: owning fuckedupedness
 time: solar return 🦀
 collection: musings
 ---

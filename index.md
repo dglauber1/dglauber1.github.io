@@ -1,7 +1,7 @@
 --- 
 prev-musing: owning-fuckedupedness
 title: what my bones know
-time: start of my weekend 🌘
+time: 🌘
 collection: musings
 ---
 <cite>Stephanie Foo:</cite>
