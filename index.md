@@ -1,6 +1,6 @@
 --- 
 prev-musing: what-my-bones-know
-title: 
+title: the thing we don't know yet
 time: 🌔
 collection: musings
 ---
