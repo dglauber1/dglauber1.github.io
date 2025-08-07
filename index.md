@@ -1,11 +1,12 @@
 --- 
-prev-musing: owning-fuckedupedness
-title: what my bones know
-time: 🌘
+prev-musing: what-my-bones-know
+title: 
+time: 🌔
 collection: musings
 ---
-<cite>Stephanie Foo:</cite>
-> I want to have words for what my bones 
-know. I want to use these gifts when they
-serve me and understand and forgive them
-when they do not.
+<cite>Rebecca Solnit:</cite>
+> Take those walks, make those burritos,
+wander aimlessly... So often, we're looking 
+for the thing we don't know - or we need the
+thing we don't know yet - and being open 
+is how we find it. 
