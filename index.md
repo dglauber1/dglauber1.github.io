@@ -1,12 +1,9 @@
 --- 
-prev-musing: what-my-bones-know
-title: the thing we don't know yet
-time: 🌔
+prev-musing: the-thing-we-dont-yet-know
+title: as we are
+time: 🌖
 collection: musings
 ---
-<cite>Rebecca Solnit:</cite>
-> Take those walks, make those burritos,
-wander aimlessly... So often, we're looking 
-for the thing we don't know - or we need the
-thing we don't know yet - and being open 
-is how we find it. 
+<cite>Anaïs Nin:</cite>
+> We don't see things as they are.  
+> We see them as we are.
