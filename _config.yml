@@ -1,5 +1,5 @@
-# plugins:
-#   - jekyll-default-layout
+plugins:
+  - jekyll-feed
 
 collections:
   musings:
@@ -18,3 +18,11 @@ defaults:
       layout: "musing" 
       # might want to change layout to default if website structure changes
       # for now everything, including index.md, is a musing
+
+author: cc
+url: https://lazysomedays.com
+# title: 
+# description:
+# feed:
+#   icon: /images/icon.png
+#   logo: /images/logo.png
