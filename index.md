@@ -1,21 +1,14 @@
 --- 
-prev-musing: martyr-quotes
-title: The Second Coming
-time: 🌓
+prev-musing: the-second-coming
+title: 
+time: 🌖
 collection: musings
 ---
-By <cite>W.B. Yeats</cite> (first stanza only)
+> I can't be a pessimist because I am 
+alive. To be a pessimist means that you 
+have agreed that human life is an 
+academic matter. So, I am forced to be an 
+optimist. I am forced to believe that we 
+can survive, whatever we must survive.
 
-<div markdown="1" class="poem">
-> * Turning and turning in the widening gyre
-> * The falcon cannot hear the falconer;
-> * Things fall apart; the center cannot hold;
-> * Mere anarchy is loosed upon the world,
-> * The blood-dimmed tide is loosed, and everywhere
-> * The ceremony of innocence is drowned;
-> * The best lack all conviction, while the worst
-> * Are full of passionate intensity. 
-</div>
-
-*The best lack all conviction, while the worst  
-Are full of passionate intensity.*
+<cite>~James Baldwin</cite>
