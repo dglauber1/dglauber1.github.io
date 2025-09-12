@@ -1,6 +1,6 @@
 --- 
 prev-musing: the-second-coming
-title: 
+title: I am alive
 time: 🌖
 collection: musings
 ---
