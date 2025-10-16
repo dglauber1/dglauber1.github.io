@@ -1,6 +1,6 @@
 --- 
 prev-musing: i-am-alive
-title: Endings (Allison)
+title: Endings
 time: 🌔
 collection: musings
 ---
