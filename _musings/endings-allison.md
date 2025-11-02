@@ -30,5 +30,5 @@ from [my friend Allison's substack](https://substack.com/@allisoneho):
 > * when they became restraining
 > * Burn it, bury it, compost it
 > * Prepare the bed anew
-> * for what you deep down bottom of your 
+> * for what you deep down bottom of your heart 
 > yearn for
