@@ -1,7 +1,7 @@
 --- 
 prev-musing: identity-a-trap
 title: dreams step aside
-time: 🌓
+time: 🌗
 collection: musings
 ---
 > Who are we revealed to be when our 
