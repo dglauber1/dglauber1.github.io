@@ -1,12 +1,13 @@
 --- 
-prev-musing: endings-allison
-title: identity, a trap
+prev-musing: identity-a-trap
+title: dreams step aside
 time: 🌓
 collection: musings
 ---
-from <cite>Rob Franklin's</cite> <u>Great 
-Black Hope</u>:
+> Who are we revealed to be when our 
+expectations for ourselves fall away and
+we accept the person who remains? When 
+the dreams of our past step aside for the
+unknowability of our future?
 
-> identity was  a trap, useful only if one
-was deft enough to claim the bait without
-tripping the door to the cage
+~<cite>Roxana Hadadi</cite>
