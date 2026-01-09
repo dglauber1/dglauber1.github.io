@@ -17,4 +17,4 @@ a lowering of stimuli, for
 their subtle hum to be  
 discernable.
 
-should a man aspire *to act with grandeur*?
+should one aspire *to act with grandeur*?
