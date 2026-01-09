@@ -1,13 +1,20 @@
 --- 
-prev-musing: identity-a-trap
-title: dreams step aside
-time: 🌗
+prev-musing: dreams-step-aside
+title: dreaming is nursed in darkness
+time: early Winter 🌖
 collection: musings
 ---
-> Who are we revealed to be when our 
-expectations for ourselves fall away and
-we accept the person who remains? When 
-the dreams of our past step aside for the
-unknowability of our future?
+> A man must dream a long time in order to act with grandeur, and dreaming is nursed in darkness.
 
-~<cite>Roxana Hadadi</cite>
+~<cite>Jean Genet</cite>
+
+*dreaming is nursed in darkness*.  
+dreams by nature are ethereal,  
+not quite known. a dream fully  
+understood is rather a vision,  
+a goal. dreams necessitate darkness,  
+a lowering of stimuli, for  
+their subtle hum to be  
+discernable.
+
+should a man aspire *to act with grandeur*?
