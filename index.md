@@ -1,20 +1,22 @@
 --- 
-prev-musing: dreams-step-aside
-title: dreaming is nursed in darkness
-time: early Winter 🌖
+prev-musing: dreaming-is-nursed-in-darkness
+title: the seed of boundlessness
+time: early Winter 🌗
 collection: musings
 ---
-> A man must dream a long time in order to act with grandeur, and dreaming is nursed in darkness.
+> The smallest act in the most limited 
+circumstances bears the seed of ... 
+boundlessness, because one deed, and sometimes
+one word, suffices to change every 
+constellation.
 
-~<cite>Jean Genet</cite>
+~<cite>Hannah Arendt</cite>
 
-*dreaming is nursed in darkness*.  
-dreams by nature are ethereal,  
-not quite known. a dream fully  
-understood is rather a vision,  
-a goal. dreams necessitate darkness,  
-a lowering of stimuli, for  
-their subtle hum to be  
-discernable.
-
-should one aspire *to act with grandeur*?
+I read this not as about the Butterfly 
+Effect, how the smallest change can cascade 
+into a grand magnitude of impact. No, this I 
+feel is about the proportionality of an action
+to its context.
+It's easy to act grandly from a place of 
+resourcing and freedom. Just as significant are
+the small acts we make under limitation. 
